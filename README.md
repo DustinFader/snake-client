@@ -20,4 +20,3 @@ Before you can run this client, you will need to be running the server side whic
 
 #### ToDo's
 - ##### Current errors: when you crash and try to input a key again it returns an error and exits.
-- ##### Have a counter of how many times you get the dot.
